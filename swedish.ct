@@ -1,0 +1,580 @@
+## version $VER: PSI.catalog 19.0 (06.08.2026)
+## language svenska
+## codeset 0
+;
+MSG_MENU_PROJECT
+Projekt
+; Project
+;
+MSG_MENU_PROJECT_OPEN
+Öppna...
+; Open...
+;
+MSG_MENU_PROJECT_APPEND
+Lägg till...
+; Append...
+;
+MSG_MENU_PROJECT_SAVEAS
+Spara som...
+; Save As...
+;
+MSG_MENU_PROJECT_ABOUT
+Om...
+; About...
+;
+MSG_MENU_PROJECT_QUIT
+Avsluta
+; Quit
+;
+MSG_MENU_EDIT
+Redigera
+; Edit
+;
+MSG_MENU_EDIT_LASTSAVED
+Senast sparade
+; Last Saved
+;
+MSG_MENU_EDIT_RESTORE
+Återställ
+; Restore
+;
+MSG_MENU_SETTINGS
+Inställningar
+; Settings
+;
+MSG_MENU_SETTINGS_MUI
+MUI...
+; MUI...
+;
+MSG_MENU_COLORS
+Färger
+; Colors
+;
+MSG_MENU_COLORS_PRESETS
+Förval
+; Presets
+;
+MSG_MENU_COLORS_PRESETS_2COL
+Monokrominställningar
+; Monochrome Settings
+;
+MSG_MENU_COLORS_PRESETS_4COL
+4-färgsinställningar
+; 4-Color Settings
+;
+MSG_MENU_COLORS_PRESETS_8COL
+MagicWB-inställningar
+; MagicWB Settings
+;
+MSG_BUTTON_OK
+_OK
+; _OK
+;
+MSG_BUTTON_CANCEL
+Avbryt
+; Cancel
+;
+MSG_BUTTON_SAVE
+Spara
+; Save
+;
+MSG_BUTTON_USE
+Använd
+; Use
+;
+MSG_BUTTON_NEW
+_Ny
+; _New
+;
+MSG_BUTTON_COPY
+_Kopiera
+; _Copy
+;
+MSG_BUTTON_DELETE
+_Radera
+; _Delete
+;
+MSG_BUTTON_EDIT
+_Redigera...
+; _Edit...
+;
+MSG_BUTTON_OPEN
+_Öppna
+; _Open
+;
+MSG_BUTTON_CLOSE
+_Stäng
+; _Close
+;
+MSG_BUTTON_JUMP
+_Hoppa
+; _Jump
+;
+MSG_BUTTON_KILL
+Ta bort
+; Kill
+;
+MSG_TITLE_PUBSCREENWINDOW
+Redigera skärm:
+; Edit Screen:
+;
+MSG_TITLE_SAVE
+Spara PublicScreen-fil
+; Save PublicScreen File
+;
+MSG_TITLE_OPEN
+Ladda PublicScreen-fil
+; Load PublicScreen File
+;
+MSG_TITLE_APPEND
+Lägg till PublicScreen-fil
+; Append PublicScreen File
+;
+MSG_LIST_SCREENNAME
+Namn
+; Name
+;
+MSG_LIST_SCREENMODE
+Skärmläge
+; Display Mode
+;
+MSG_LIST_UNKNOWNMODE
+(okänd)
+; (unknown)
+;
+MSG_LIST_FOREIGNSCREEN
+(främmande)
+; (foreign)
+;
+MSG_LABEL_PUBLICNAME
+Allmänt _namn:
+; Public _Name:
+;
+MSG_LABEL_SCREENTITLE
+Skärm_titel:
+; Screen _Title:
+;
+MSG_LABEL_DISPLAYMODE
+_Skärmläge:
+; _Display Mode:
+;
+MSG_LABEL_DEFAULTFONT
+Standard_typsnitt:
+; Default _Font:
+;
+MSG_LABEL_BACKGROUND
+_Bakgrund:
+; _Background:
+;
+MSG_LABEL_PUBLICFLAGS
+Flaggor:
+; Flags:
+;
+MSG_LABEL_AUTOSCROLL
+_Autorullning
+; _Autoscroll
+;
+MSG_LABEL_NODRAG
+Ingen d_ragning
+; No D_rag
+;
+MSG_LABEL_EXCLUSIVE
+_Exklusiv
+; _Exclusive
+;
+MSG_LABEL_INTERLEAVED
+_Interfolierad
+; _Interleaved
+;
+MSG_LABEL_OPENBEHIND
+Öppna ba_kom
+; Open Be_hind
+;
+MSG_LABEL_SYSTEMDEFAULT
+S_ystemstandard
+; S_ystem Default
+;
+MSG_LABEL_AUTOCLOSE
+Autostäng
+; Auto Close
+;
+MSG_LABEL_CLOSEGADGET
+Stängningsknapp
+; Close Gadget
+;
+MSG_LABEL_OVERSCAN
+O_verscan:
+; O_verscan:
+;
+MSG_LABEL_SIZE
+_Storlek:
+; _Size:
+;
+MSG_LABEL_CROSS
+_x
+; _x
+;
+MSG_LABEL_DEPTH
+_Djup:
+; _Depth:
+;
+MSG_LABEL_VISIBLE
+Synlig:
+; Visible:
+;
+MSG_LABEL_MINIMUM
+Minimum:
+; Minimum:
+;
+MSG_LABEL_MAXIMUM
+Maximum:
+; Maximum:
+;
+MSG_LABEL_BITSPERGUN
+Bitar/kanon:
+; Bits/Gun:
+;
+MSG_LABEL_SCANRATE
+Bildfrekvens:
+; Scanrate:
+;
+MSG_LABEL_SCANLINE
+Radfrekvens:
+; Scanline:
+;
+MSG_CLI_SCREENOPENED
+Skärmen öppnad (0).\n
+; Screen opened (0).\n
+;
+MSG_CLI_SCREENOPENFAILED
+Kunde inte öppna skärmen (5).\n
+; Failed to open screen (5).\n
+;
+MSG_CLI_SCREENCLOSED
+Skärmen stängd (0).\n
+; Screen closed (0).\n
+;
+MSG_CLI_SCREENCLOSEFAILED
+Kunde inte stänga skärmen (5).\n
+; Failed to close screen (5).\n
+;
+MSG_CLI_SYNTAXERROR
+Syntaxfel på kommandoraden (10).\n
+; Syntax Error in command line (10).\n
+;
+MSG_CLI_SCREENNOTFOUND
+Skärmen hittades inte (5).\n
+; Screen not found (5).\n
+;
+MSG_CLI_OUTOFMEMORY
+Slut på minne (20).\n
+; Out of memory (20).\n
+;
+MSG_CLI_NOAPPLICATION
+Kunde inte skapa applikation (20).\n
+; Failed to create application (20).\n
+;
+MSG_CLI_NOMUIMASTER
+Kunde inte öppna muimaster.library V11 (20).\n
+; Failed to open muimaster.library V11 (20).\n
+;
+MSG_ABOUT_NUMBEROFSCREENS
+Antal skärmar:
+; Number of screens:
+;
+MSG_TEXT_UNKNOWNMODE
+Okänt skärmläge
+; Unknown Display Mode
+;
+MSG_TEXT_FOREIGNSCREEN
+Främmande allmän skärm
+; Foreign public screen
+;
+MSG_PALETTE_TITLE
+Färginst
+; Palette
+;
+MSG_PALETTE_FIRST
+Första 4 färgerna
+; First 4 colors
+;
+MSG_PALETTE_LAST
+Sista 4 färgerna
+; Last 4 colors
+;
+MSG_SYSPENS_TITLE
+Systempennor
+; System Pens
+;
+MSG_SYSPEN_DETAIL
+Detalj
+; Detail
+;
+MSG_SYSPEN_BLOCK
+Blockera
+; Block
+;
+MSG_SYSPEN_TEXT
+Text
+; Text
+;
+MSG_SYSPEN_SHINE
+Glans
+; Shine
+;
+MSG_SYSPEN_SHADOW
+Skugga
+; Shadow
+;
+MSG_SYSPEN_FILL
+Fyllning
+; Fill
+;
+MSG_SYSPEN_FILLTEXT
+Fylltext
+; Filltext
+;
+MSG_SYSPEN_BACKGROUND
+Bakgrund
+; Background
+;
+MSG_SYSPEN_HIGHLIGHT
+Markering
+; Highlight
+;
+MSG_SYSPEN_BARDETAIL
+Menyraddetalj
+; Bardetail
+;
+MSG_SYSPEN_BARBLOCK
+Menyradblock
+; Barblock
+;
+MSG_SYSPEN_BARTRIM
+Menyradkant
+; Bartrim
+;
+MSG_PALPRES_TITLE
+Färgförval
+; Color Presets
+;
+MSG_PALPRES_STANDARD
+0\0Standard
+; 0\0Standard
+;
+MSG_PALPRES_TINT
+1\0Nyans
+; 1\0Tint
+;
+MSG_PALPRES_PHARAO
+2\0Farao
+; 2\0Pharao
+;
+MSG_PALPRES_SUNSET
+3\0Solnedgång
+; 3\0Sunset
+;
+MSG_PALPRES_OCEAN
+4\0Ocean
+; 4\0Ocean
+;
+MSG_PALPRES_STEEL
+5\0Stål
+; 5\0Steel
+;
+MSG_PALPRES_CHOCOLATE
+6\0Choklad
+; 6\0Chocolate
+;
+MSG_PALPRES_PEWTER
+7\0Tenn
+; 7\0Pewter
+;
+MSG_PALPRES_WINE
+8\0Vin
+; 8\0Wine
+;
+MSG_PALPRES_MAGICWB
+9\0MagicWB
+; 9\0MagicWB
+;
+MSG_PALPRES_CLONEWB
+Klona WB
+; Clone WB
+;
+MSG_OVERSCAN_TEXT
+Text
+; Text
+;
+MSG_OVERSCAN_GRAPHICS
+Grafik
+; Graphics
+;
+MSG_OVERSCAN_EXTREME
+Extrem
+; Extreme
+;
+MSG_OVERSCAN_MAXIMUM
+Maximal
+; Maximum
+;
+MSG_EDITPAGE_ATTRIBUTES
+Attribut
+; Attributes
+;
+MSG_EDITPAGE_DISPLAY
+Visning
+; Display
+;
+MSG_EDITPAGE_COLORS
+Färger
+; Colors
+;
+MSG_HELP_WHEEL
+Justera färg för\ngrupp av pennor.
+; Adjust color for\ngroup of pens.
+;
+MSG_HELP_INFO
+Information om\nläge och storlek.
+; Information about\nmode & size.
+;
+MSG_HELP_NAME
+Namn på allmän skärm.\nJokertecken tillåtna för\nfrämmande skärmar.
+; Name of Public Screen.\nWildcards allowed for\nforeign screens.
+;
+MSG_HELP_TITLE
+Text som visas i\nskärmens titelrad.
+; Text that appears in\nthe screen's title bar.
+;
+MSG_HELP_FONT
+Standardtypsnitt\nför skärmen.
+; Default font\nfor the screen.
+;
+MSG_HELP_BACKGROUND
+Datatypbild som används\nsom bakgrundsmönster.
+; Datatype picture used\nas background pattern.
+;
+MSG_HELP_AUTOSCROLL
+Skärmen rullar när\nmusen når dess kanter.
+; The screen scrolls when\nthe mouse hits its borders.
+;
+MSG_HELP_NODRAG
+Skärmen\ngår inte att dra.
+; The screen\nis undraggable.
+;
+MSG_HELP_EXCLUSIVE
+Skärmen kan inte dela\nsin bildskärm med andra.
+; The screen cannot share\nits display with others.
+;
+MSG_HELP_INTERLEAVED
+Skärmens bitmap allokeras\ni interfolierat läge.
+; The screen's bitmap is allocated\nin interleaved mode.
+;
+MSG_HELP_BEHIND
+Skärmen öppnas bakom\nalla andra skärmar.
+; The screen opens behind\nall other screens.
+;
+MSG_HELP_SYSTEMDEFAULT
+Skärmen blir systemets\nstandardskärm.
+; The screen becomes the\nsystem's default screen.
+;
+MSG_HELP_AUTOCLOSE
+Skärmen stängs när\ndet sista fönstret stängs.
+; The screen closes when\nthe last window is closed.
+;
+MSG_HELP_CLOSEGADGET
+Skärmen får\nen stängningsknapp.
+; The screen gets\na close gadget.
+;
+MSG_HELP_MODELIST
+Lista över tillgängliga\nskärmlägen.
+; List of available\ndisplay modes.
+;
+MSG_HELP_MODEINFO
+Information om det\naktuella skärmläget.
+; Information about the\ncurrent display mode.
+;
+MSG_HELP_OVERSCAN
+Justering av overscan-storlek.
+; Overscan size adjustment.
+;
+MSG_HELP_WIDTH
+Skärmens bredd,\nmätt i pixlar.
+; Width of screen,\nmeasured in pixels.
+;
+MSG_HELP_HEIGHT
+Skärmens höjd,\nmätt i pixlar.
+; Height of screen,\nmeasured in pixels.
+;
+MSG_HELP_DEPTH
+Skärmens djup,\nmätt i plan.
+; Depth of screen,\nmeasured in planes.
+;
+MSG_HELP_PENLIST
+Systempennor, kan dras\ntill en annan färgruta.
+; System pens, draggable\nto different color pot.
+;
+MSG_HELP_COLORFIELD
+Aktuell färg, klicka\npå fältet för att ändra den.
+; Current color, click\non field to change it.
+;
+MSG_HELP_KILLCOLOR
+Ta bort denna färg\nfrån gruppen.
+; Remove this color\nfrom the group.
+;
+MSG_HELP_NEWCOLOR
+Lägg till en ny färg\ni gruppen.
+; Add a new color\nto the group.
+;
+MSG_HELP_EDITOK
+Avsluta och behåll\nändringar för denna skärm.
+; Exit and remember\nchanges for this screen.
+;
+MSG_HELP_EDITCANCEL
+Avsluta och \33bförkasta\33n\nändringar för denna skärm.
+; Exit and \33bdiscard\33n\nchanges for this screen.
+;
+MSG_HELP_SCREENLIST
+Lista över definierade\nallmänna skärmar.
+; List of defined\npublic screens.
+;
+MSG_HELP_NEWSCREEN
+Skapa en ny\nallmän skärm.
+; Create a new\npublic screen.
+;
+MSG_HELP_COPYSCREEN
+Skapa en kopia\nav aktuell skärm.
+; Create a copy\nof current screen.
+;
+MSG_HELP_DELETESCREEN
+Radera aktuell\nallmän skärm.
+; Delete current\npublic screen.
+;
+MSG_HELP_EDITSCREEN
+Redigera aktuell\nallmän skärm.
+; Edit current\npublic screen.
+;
+MSG_HELP_OPENSCREEN
+Öppna aktuell\nallmän skärm.
+; Open current\npublic screen.
+;
+MSG_HELP_CLOSESCREEN
+Stäng aktuell\nallmän skärm.
+; Close current\npublic screen.
+;
+MSG_HELP_JUMPSCREEN
+Hoppa till aktuell\nallmän skärm.
+; Jump to current\npublic screen.
+;
+MSG_HELP_SAVE
+Avsluta och spara\nändringar till disk.
+; Exit and save\nchanges to disk.
+;
+MSG_HELP_USE
+Avsluta och spara ändringar\nför aktuell session.
+; Exit and save changes\nfor current session.
+;
+MSG_HELP_CANCEL
+Avsluta och\n\33bförkasta\33n ändringar.
+; Exit and\n\33bdiscard\33n changes.
+;

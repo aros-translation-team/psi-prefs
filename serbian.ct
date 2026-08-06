@@ -1,0 +1,580 @@
+## version $VER: PSI.catalog 19.0 (06.08.2026)
+## language srpski
+## codeset 8
+;
+MSG_MENU_PROJECT
+Projekat
+; Project
+;
+MSG_MENU_PROJECT_OPEN
+Otvori...
+; Open...
+;
+MSG_MENU_PROJECT_APPEND
+Dodaj...
+; Append...
+;
+MSG_MENU_PROJECT_SAVEAS
+Snimi kao...
+; Save As...
+;
+MSG_MENU_PROJECT_ABOUT
+O programu...
+; About...
+;
+MSG_MENU_PROJECT_QUIT
+Iza–i
+; Quit
+;
+MSG_MENU_EDIT
+Uredi
+; Edit
+;
+MSG_MENU_EDIT_LASTSAVED
+Poslednje snimljeno
+; Last Saved
+;
+MSG_MENU_EDIT_RESTORE
+Vrati
+; Restore
+;
+MSG_MENU_SETTINGS
+PodeÁavanja
+; Settings
+;
+MSG_MENU_SETTINGS_MUI
+MUI...
+; MUI...
+;
+MSG_MENU_COLORS
+Boje
+; Colors
+;
+MSG_MENU_COLORS_PRESETS
+Gotove postavke
+; Presets
+;
+MSG_MENU_COLORS_PRESETS_2COL
+Monohromatska podeÁavanja
+; Monochrome Settings
+;
+MSG_MENU_COLORS_PRESETS_4COL
+PodeÁavanja za 4 boje
+; 4-Color Settings
+;
+MSG_MENU_COLORS_PRESETS_8COL
+MagicWB podeÁavanja
+; MagicWB Settings
+;
+MSG_BUTTON_OK
+_OK
+; _OK
+;
+MSG_BUTTON_CANCEL
+PoniÁti
+; Cancel
+;
+MSG_BUTTON_SAVE
+Snimi
+; Save
+;
+MSG_BUTTON_USE
+Koristi
+; Use
+;
+MSG_BUTTON_NEW
+_Novi
+; _New
+;
+MSG_BUTTON_COPY
+_Kopiraj
+; _Copy
+;
+MSG_BUTTON_DELETE
+_ObriÁi
+; _Delete
+;
+MSG_BUTTON_EDIT
+_Izmeni...
+; _Edit...
+;
+MSG_BUTTON_OPEN
+_Otvori
+; _Open
+;
+MSG_BUTTON_CLOSE
+_Zatvori
+; _Close
+;
+MSG_BUTTON_JUMP
+_Skoüi
+; _Jump
+;
+MSG_BUTTON_KILL
+Ukloni
+; Kill
+;
+MSG_TITLE_PUBSCREENWINDOW
+Izmeni ekran:
+; Edit Screen:
+;
+MSG_TITLE_SAVE
+Snimi PublicScreen fajl
+; Save PublicScreen File
+;
+MSG_TITLE_OPEN
+Uüitaj PublicScreen fajl
+; Load PublicScreen File
+;
+MSG_TITLE_APPEND
+Dodaj PublicScreen fajl
+; Append PublicScreen File
+;
+MSG_LIST_SCREENNAME
+Ime
+; Name
+;
+MSG_LIST_SCREENMODE
+Mod prikaza
+; Display Mode
+;
+MSG_LIST_UNKNOWNMODE
+(nepoznato)
+; (unknown)
+;
+MSG_LIST_FOREIGNSCREEN
+(strani)
+; (foreign)
+;
+MSG_LABEL_PUBLICNAME
+Javno i_me:
+; Public _Name:
+;
+MSG_LABEL_SCREENTITLE
+_Naslov ekrana:
+; Screen _Title:
+;
+MSG_LABEL_DISPLAYMODE
+_Mod prikaza:
+; _Display Mode:
+;
+MSG_LABEL_DEFAULTFONT
+Standardni _font:
+; Default _Font:
+;
+MSG_LABEL_BACKGROUND
+_Pozadina:
+; _Background:
+;
+MSG_LABEL_PUBLICFLAGS
+Zastavice:
+; Flags:
+;
+MSG_LABEL_AUTOSCROLL
+_Auto-skrol
+; _Autoscroll
+;
+MSG_LABEL_NODRAG
+Bez pome_ranja
+; No D_rag
+;
+MSG_LABEL_EXCLUSIVE
+_Ekskluzivan
+; _Exclusive
+;
+MSG_LABEL_INTERLEAVED
+_Isprepleten
+; _Interleaved
+;
+MSG_LABEL_OPENBEHIND
+Otvori i_za
+; Open Be_hind
+;
+MSG_LABEL_SYSTEMDEFAULT
+S_istemski podrazumevano
+; S_ystem Default
+;
+MSG_LABEL_AUTOCLOSE
+Auto zatvaranje
+; Auto Close
+;
+MSG_LABEL_CLOSEGADGET
+Dugme za zatvaranje
+; Close Gadget
+;
+MSG_LABEL_OVERSCAN
+O_versken:
+; O_verscan:
+;
+MSG_LABEL_SIZE
+_Veliüina:
+; _Size:
+;
+MSG_LABEL_CROSS
+_x
+; _x
+;
+MSG_LABEL_DEPTH
+_Dubina:
+; _Depth:
+;
+MSG_LABEL_VISIBLE
+Vidljivo:
+; Visible:
+;
+MSG_LABEL_MINIMUM
+Minimum:
+; Minimum:
+;
+MSG_LABEL_MAXIMUM
+Maksimum:
+; Maximum:
+;
+MSG_LABEL_BITSPERGUN
+Bitova/boji:
+; Bits/Gun:
+;
+MSG_LABEL_SCANRATE
+Sken frekvencija:
+; Scanrate:
+;
+MSG_LABEL_SCANLINE
+Skenlinija:
+; Scanline:
+;
+MSG_CLI_SCREENOPENED
+Ekran otvoren (0).\n
+; Screen opened (0).\n
+;
+MSG_CLI_SCREENOPENFAILED
+Neuspelo otvaranje ekrana (5).\n
+; Failed to open screen (5).\n
+;
+MSG_CLI_SCREENCLOSED
+Ekran zatvoren (0).\n
+; Screen closed (0).\n
+;
+MSG_CLI_SCREENCLOSEFAILED
+Neuspelo zatvaranje ekrana (5).\n
+; Failed to close screen (5).\n
+;
+MSG_CLI_SYNTAXERROR
+Sintaksna greÁka u komandnoj liniji (10).\n
+; Syntax Error in command line (10).\n
+;
+MSG_CLI_SCREENNOTFOUND
+Ekran nije prona–en (5).\n
+; Screen not found (5).\n
+;
+MSG_CLI_OUTOFMEMORY
+Nema dovoljno memorije (20).\n
+; Out of memory (20).\n
+;
+MSG_CLI_NOAPPLICATION
+Neuspelo kreiranje aplikacije (20).\n
+; Failed to create application (20).\n
+;
+MSG_CLI_NOMUIMASTER
+Ne mogu da otvorim muimaster.library V11 (20).\n
+; Failed to open muimaster.library V11 (20).\n
+;
+MSG_ABOUT_NUMBEROFSCREENS
+Broj ekrana:
+; Number of screens:
+;
+MSG_TEXT_UNKNOWNMODE
+Nepoznat mod prikaza
+; Unknown Display Mode
+;
+MSG_TEXT_FOREIGNSCREEN
+Strani javni ekran
+; Foreign public screen
+;
+MSG_PALETTE_TITLE
+Boje
+; Palette
+;
+MSG_PALETTE_FIRST
+Prve 4 boje
+; First 4 colors
+;
+MSG_PALETTE_LAST
+Poslednje 4 boje
+; Last 4 colors
+;
+MSG_SYSPENS_TITLE
+Sistemske olovke
+; System Pens
+;
+MSG_SYSPEN_DETAIL
+Detalj
+; Detail
+;
+MSG_SYSPEN_BLOCK
+Blokiraj
+; Block
+;
+MSG_SYSPEN_TEXT
+Tekst
+; Text
+;
+MSG_SYSPEN_SHINE
+Sjaj
+; Shine
+;
+MSG_SYSPEN_SHADOW
+Senka
+; Shadow
+;
+MSG_SYSPEN_FILL
+Popuna
+; Fill
+;
+MSG_SYSPEN_FILLTEXT
+Tekst popune
+; Filltext
+;
+MSG_SYSPEN_BACKGROUND
+Pozadina
+; Background
+;
+MSG_SYSPEN_HIGHLIGHT
+Isticanje
+; Highlight
+;
+MSG_SYSPEN_BARDETAIL
+Detalj trake
+; Bardetail
+;
+MSG_SYSPEN_BARBLOCK
+Blok trake
+; Barblock
+;
+MSG_SYSPEN_BARTRIM
+Ivica trake
+; Bartrim
+;
+MSG_PALPRES_TITLE
+Gotove postavke boja
+; Color Presets
+;
+MSG_PALPRES_STANDARD
+0\0Standard
+; 0\0Standard
+;
+MSG_PALPRES_TINT
+1\0Nijansa
+; 1\0Tint
+;
+MSG_PALPRES_PHARAO
+2\0Faraon
+; 2\0Pharao
+;
+MSG_PALPRES_SUNSET
+3\0Zalazak sunca
+; 3\0Sunset
+;
+MSG_PALPRES_OCEAN
+4\0Okean
+; 4\0Ocean
+;
+MSG_PALPRES_STEEL
+5\0¨elik
+; 5\0Steel
+;
+MSG_PALPRES_CHOCOLATE
+6\0¨okolada
+; 6\0Chocolate
+;
+MSG_PALPRES_PEWTER
+7\0Kalaj
+; 7\0Pewter
+;
+MSG_PALPRES_WINE
+8\0Vino
+; 8\0Wine
+;
+MSG_PALPRES_MAGICWB
+9\0MagicWB
+; 9\0MagicWB
+;
+MSG_PALPRES_CLONEWB
+Kloniraj WB
+; Clone WB
+;
+MSG_OVERSCAN_TEXT
+Tekst
+; Text
+;
+MSG_OVERSCAN_GRAPHICS
+Grafika
+; Graphics
+;
+MSG_OVERSCAN_EXTREME
+Ekstremni
+; Extreme
+;
+MSG_OVERSCAN_MAXIMUM
+Maksimalni
+; Maximum
+;
+MSG_EDITPAGE_ATTRIBUTES
+Atributi
+; Attributes
+;
+MSG_EDITPAGE_DISPLAY
+Prikaz
+; Display
+;
+MSG_EDITPAGE_COLORS
+Boje
+; Colors
+;
+MSG_HELP_WHEEL
+Podesi boju za\ngrupu olovaka.
+; Adjust color for\ngroup of pens.
+;
+MSG_HELP_INFO
+Informacije o\nmodu i veliüini.
+; Information about\nmode & size.
+;
+MSG_HELP_NAME
+Ime javnog ekrana.\nDßokeri su dozvoljeni za\nstrane ekrane.
+; Name of Public Screen.\nWildcards allowed for\nforeign screens.
+;
+MSG_HELP_TITLE
+Tekst koji se pojavljuje u\nnaslovnoj traci ekrana.
+; Text that appears in\nthe screen's title bar.
+;
+MSG_HELP_FONT
+Podrazumevani font\nza ekran.
+; Default font\nfor the screen.
+;
+MSG_HELP_BACKGROUND
+Datatype slika koja se koristi\nkao Áara pozadine.
+; Datatype picture used\nas background pattern.
+;
+MSG_HELP_AUTOSCROLL
+Ekran se pomera kada\nmiÁ dodirne njegove ivice.
+; The screen scrolls when\nthe mouse hits its borders.
+;
+MSG_HELP_NODRAG
+Ekran\nse ne moße prevlaüiti.
+; The screen\nis undraggable.
+;
+MSG_HELP_EXCLUSIVE
+Ekran ne moße da deli\nprikaz sa drugima.
+; The screen cannot share\nits display with others.
+;
+MSG_HELP_INTERLEAVED
+Bitmapa ekrana se alocira\nu interleaved modu.
+; The screen's bitmap is allocated\nin interleaved mode.
+;
+MSG_HELP_BEHIND
+Ekran se otvara iza\nsvih ostalih ekrana.
+; The screen opens behind\nall other screens.
+;
+MSG_HELP_SYSTEMDEFAULT
+Ekran postaje\npodrazumevani ekran sistema.
+; The screen becomes the\nsystem's default screen.
+;
+MSG_HELP_AUTOCLOSE
+Ekran se zatvara kada\nse zatvori poslednji prozor.
+; The screen closes when\nthe last window is closed.
+;
+MSG_HELP_CLOSEGADGET
+Ekran dobija\ndugme za zatvaranje.
+; The screen gets\na close gadget.
+;
+MSG_HELP_MODELIST
+Lista dostupnih\nmodova prikaza.
+; List of available\ndisplay modes.
+;
+MSG_HELP_MODEINFO
+Informacije o\ntrenutnom modu prikaza.
+; Information about the\ncurrent display mode.
+;
+MSG_HELP_OVERSCAN
+PodeÁavanje overscan veliüine.
+; Overscan size adjustment.
+;
+MSG_HELP_WIDTH
+Êirina ekrana,\nizraßena u pikselima.
+; Width of screen,\nmeasured in pixels.
+;
+MSG_HELP_HEIGHT
+Visina ekrana,\nmerena u pikselima.
+; Height of screen,\nmeasured in pixels.
+;
+MSG_HELP_DEPTH
+Dubina ekrana,\nmerena u planovima.
+; Depth of screen,\nmeasured in planes.
+;
+MSG_HELP_PENLIST
+Sistemske olovke, mogu se prevuÜi\nna drugu Üeliju boje.
+; System pens, draggable\nto different color pot.
+;
+MSG_HELP_COLORFIELD
+Trenutna boja, klikni\nna polje da je promeniÁ.
+; Current color, click\non field to change it.
+;
+MSG_HELP_KILLCOLOR
+Ukloni ovu boju\niz grupe.
+; Remove this color\nfrom the group.
+;
+MSG_HELP_NEWCOLOR
+Dodaj novu boju\nu grupu.
+; Add a new color\nto the group.
+;
+MSG_HELP_EDITOK
+Iza–i i zapamti\nizmene za ovaj ekran.
+; Exit and remember\nchanges for this screen.
+;
+MSG_HELP_EDITCANCEL
+Iza–i i \33bodbaci\33n\nizmene za ovaj ekran.
+; Exit and \33bdiscard\33n\nchanges for this screen.
+;
+MSG_HELP_SCREENLIST
+Lista definisanih\njavnih ekrana.
+; List of defined\npublic screens.
+;
+MSG_HELP_NEWSCREEN
+Napravi novi\njavni ekran.
+; Create a new\npublic screen.
+;
+MSG_HELP_COPYSCREEN
+Napravi kopiju\ntrenutnog ekrana.
+; Create a copy\nof current screen.
+;
+MSG_HELP_DELETESCREEN
+ObriÁi trenutni\njavni ekran.
+; Delete current\npublic screen.
+;
+MSG_HELP_EDITSCREEN
+Izmeni trenutni\njavni ekran.
+; Edit current\npublic screen.
+;
+MSG_HELP_OPENSCREEN
+Otvori trenutni\njavni ekran.
+; Open current\npublic screen.
+;
+MSG_HELP_CLOSESCREEN
+Zatvori trenutni\njavni ekran.
+; Close current\npublic screen.
+;
+MSG_HELP_JUMPSCREEN
+Skoüi na trenutni\njavni ekran.
+; Jump to current\npublic screen.
+;
+MSG_HELP_SAVE
+Iza–i i snimi\nizmene na disk.
+; Exit and save\nchanges to disk.
+;
+MSG_HELP_USE
+Iza–i i saüuvaj izmene\nza trenutnu sesiju.
+; Exit and save changes\nfor current session.
+;
+MSG_HELP_CANCEL
+Iza–i i\n\33bodbaci\33n izmene.
+; Exit and\n\33bdiscard\33n changes.
+;

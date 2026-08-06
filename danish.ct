@@ -1,0 +1,580 @@
+## version $VER: PSI.catalog 19.0 (06.08.2026)
+## language dansk
+## codeset 0
+;
+MSG_MENU_PROJECT
+Projekt
+; Project
+;
+MSG_MENU_PROJECT_OPEN
+Åben...
+; Open...
+;
+MSG_MENU_PROJECT_APPEND
+Tilføj...
+; Append...
+;
+MSG_MENU_PROJECT_SAVEAS
+Gem Som...
+; Save As...
+;
+MSG_MENU_PROJECT_ABOUT
+Om...
+; About...
+;
+MSG_MENU_PROJECT_QUIT
+Afslut
+; Quit
+;
+MSG_MENU_EDIT
+Redigér
+; Edit
+;
+MSG_MENU_EDIT_LASTSAVED
+Sidst gemt
+; Last Saved
+;
+MSG_MENU_EDIT_RESTORE
+Genskab
+; Restore
+;
+MSG_MENU_SETTINGS
+Indstillinger
+; Settings
+;
+MSG_MENU_SETTINGS_MUI
+MUI...
+; MUI...
+;
+MSG_MENU_COLORS
+Farver
+; Colors
+;
+MSG_MENU_COLORS_PRESETS
+Forudindstillinger
+; Presets
+;
+MSG_MENU_COLORS_PRESETS_2COL
+Indstillinger for monokrom
+; Monochrome Settings
+;
+MSG_MENU_COLORS_PRESETS_4COL
+Indstillinger for 4 farver
+; 4-Color Settings
+;
+MSG_MENU_COLORS_PRESETS_8COL
+Indstillinger for MagicWB
+; MagicWB Settings
+;
+MSG_BUTTON_OK
+_O.k.
+; _OK
+;
+MSG_BUTTON_CANCEL
+Afbryd
+; Cancel
+;
+MSG_BUTTON_SAVE
+Gem
+; Save
+;
+MSG_BUTTON_USE
+Brug
+; Use
+;
+MSG_BUTTON_NEW
+_Ny
+; _New
+;
+MSG_BUTTON_COPY
+_Kopiér
+; _Copy
+;
+MSG_BUTTON_DELETE
+_Slet
+; _Delete
+;
+MSG_BUTTON_EDIT
+_Redigér...
+; _Edit...
+;
+MSG_BUTTON_OPEN
+_Åbn
+; _Open
+;
+MSG_BUTTON_CLOSE
+_Luk
+; _Close
+;
+MSG_BUTTON_JUMP
+_Hop
+; _Jump
+;
+MSG_BUTTON_KILL
+Fjern
+; Kill
+;
+MSG_TITLE_PUBSCREENWINDOW
+Redigér skærm:
+; Edit Screen:
+;
+MSG_TITLE_SAVE
+Gem PublicScreen-fil
+; Save PublicScreen File
+;
+MSG_TITLE_OPEN
+Indlæs PublicScreen-fil
+; Load PublicScreen File
+;
+MSG_TITLE_APPEND
+Tilføj PublicScreen-fil
+; Append PublicScreen File
+;
+MSG_LIST_SCREENNAME
+Navn
+; Name
+;
+MSG_LIST_SCREENMODE
+Skærmtilstand
+; Display Mode
+;
+MSG_LIST_UNKNOWNMODE
+(ukendt)
+; (unknown)
+;
+MSG_LIST_FOREIGNSCREEN
+(fremmed)
+; (foreign)
+;
+MSG_LABEL_PUBLICNAME
+Offentligt _navn:
+; Public _Name:
+;
+MSG_LABEL_SCREENTITLE
+Skærm_titel:
+; Screen _Title:
+;
+MSG_LABEL_DISPLAYMODE
+_Skærmtilstand:
+; _Display Mode:
+;
+MSG_LABEL_DEFAULTFONT
+Standard_skrifttype:
+; Default _Font:
+;
+MSG_LABEL_BACKGROUND
+_Baggrund:
+; _Background:
+;
+MSG_LABEL_PUBLICFLAGS
+Flag:
+; Flags:
+;
+MSG_LABEL_AUTOSCROLL
+_Autorulning
+; _Autoscroll
+;
+MSG_LABEL_NODRAG
+Ingen t_ræk
+; No D_rag
+;
+MSG_LABEL_EXCLUSIVE
+_Eksklusiv
+; _Exclusive
+;
+MSG_LABEL_INTERLEAVED
+_Interleaved
+; _Interleaved
+;
+MSG_LABEL_OPENBEHIND
+Åbn ba_gved
+; Open Be_hind
+;
+MSG_LABEL_SYSTEMDEFAULT
+S_ystemstandard
+; S_ystem Default
+;
+MSG_LABEL_AUTOCLOSE
+Autoluk
+; Auto Close
+;
+MSG_LABEL_CLOSEGADGET
+Lukkeknap
+; Close Gadget
+;
+MSG_LABEL_OVERSCAN
+O_verscan:
+; O_verscan:
+;
+MSG_LABEL_SIZE
+_Størrelse:
+; _Size:
+;
+MSG_LABEL_CROSS
+_x
+; _x
+;
+MSG_LABEL_DEPTH
+_Dybde:
+; _Depth:
+;
+MSG_LABEL_VISIBLE
+Synlig:
+; Visible:
+;
+MSG_LABEL_MINIMUM
+Minimum:
+; Minimum:
+;
+MSG_LABEL_MAXIMUM
+Maksimum:
+; Maximum:
+;
+MSG_LABEL_BITSPERGUN
+Bit/kanon:
+; Bits/Gun:
+;
+MSG_LABEL_SCANRATE
+Scanfrekvens:
+; Scanrate:
+;
+MSG_LABEL_SCANLINE
+Scanlinje:
+; Scanline:
+;
+MSG_CLI_SCREENOPENED
+Skærm åbnet (0).\n
+; Screen opened (0).\n
+;
+MSG_CLI_SCREENOPENFAILED
+Kunne ikke åbne skærm (5).\n
+; Failed to open screen (5).\n
+;
+MSG_CLI_SCREENCLOSED
+Skærm lukket (0).\n
+; Screen closed (0).\n
+;
+MSG_CLI_SCREENCLOSEFAILED
+Kunne ikke lukke skærm (5).\n
+; Failed to close screen (5).\n
+;
+MSG_CLI_SYNTAXERROR
+Syntaksfejl i kommandolinjen (10).\n
+; Syntax Error in command line (10).\n
+;
+MSG_CLI_SCREENNOTFOUND
+Skærm ikke fundet (5).\n
+; Screen not found (5).\n
+;
+MSG_CLI_OUTOFMEMORY
+Ikke nok hukommelse (20).\n
+; Out of memory (20).\n
+;
+MSG_CLI_NOAPPLICATION
+Kunne ikke oprette program (20).\n
+; Failed to create application (20).\n
+;
+MSG_CLI_NOMUIMASTER
+Kunne ikke åbne muimaster.library V11 (20).\n
+; Failed to open muimaster.library V11 (20).\n
+;
+MSG_ABOUT_NUMBEROFSCREENS
+Antal skærme:
+; Number of screens:
+;
+MSG_TEXT_UNKNOWNMODE
+Ukendt skærmtilstand
+; Unknown Display Mode
+;
+MSG_TEXT_FOREIGNSCREEN
+Fremmed offentlig skærm
+; Foreign public screen
+;
+MSG_PALETTE_TITLE
+Palette
+; Palette
+;
+MSG_PALETTE_FIRST
+Første 4 farver
+; First 4 colors
+;
+MSG_PALETTE_LAST
+Sidste 4 farver
+; Last 4 colors
+;
+MSG_SYSPENS_TITLE
+Systempenne
+; System Pens
+;
+MSG_SYSPEN_DETAIL
+Detalje
+; Detail
+;
+MSG_SYSPEN_BLOCK
+Bloker
+; Block
+;
+MSG_SYSPEN_TEXT
+Tekst
+; Text
+;
+MSG_SYSPEN_SHINE
+Lys
+; Shine
+;
+MSG_SYSPEN_SHADOW
+Skygge
+; Shadow
+;
+MSG_SYSPEN_FILL
+Fyld
+; Fill
+;
+MSG_SYSPEN_FILLTEXT
+Fyldtekst
+; Filltext
+;
+MSG_SYSPEN_BACKGROUND
+Baggrundsfarve
+; Background
+;
+MSG_SYSPEN_HIGHLIGHT
+Fremhævning
+; Highlight
+;
+MSG_SYSPEN_BARDETAIL
+Bjælkedetalje
+; Bardetail
+;
+MSG_SYSPEN_BARBLOCK
+Bjælkeblok
+; Barblock
+;
+MSG_SYSPEN_BARTRIM
+Bjælkekant
+; Bartrim
+;
+MSG_PALPRES_TITLE
+Farveforudindstillinger
+; Color Presets
+;
+MSG_PALPRES_STANDARD
+0\0Standard
+; 0\0Standard
+;
+MSG_PALPRES_TINT
+1\0Farvetone
+; 1\0Tint
+;
+MSG_PALPRES_PHARAO
+2\0Farao
+; 2\0Pharao
+;
+MSG_PALPRES_SUNSET
+3\0Solnedgang
+; 3\0Sunset
+;
+MSG_PALPRES_OCEAN
+4\0Ocean
+; 4\0Ocean
+;
+MSG_PALPRES_STEEL
+5\0Stål
+; 5\0Steel
+;
+MSG_PALPRES_CHOCOLATE
+6\0Chokolade
+; 6\0Chocolate
+;
+MSG_PALPRES_PEWTER
+7\0Tin
+; 7\0Pewter
+;
+MSG_PALPRES_WINE
+8\0Vin
+; 8\0Wine
+;
+MSG_PALPRES_MAGICWB
+9\0MagicWB
+; 9\0MagicWB
+;
+MSG_PALPRES_CLONEWB
+Klon WB
+; Clone WB
+;
+MSG_OVERSCAN_TEXT
+Tekst
+; Text
+;
+MSG_OVERSCAN_GRAPHICS
+Grafik
+; Graphics
+;
+MSG_OVERSCAN_EXTREME
+Ekstrem
+; Extreme
+;
+MSG_OVERSCAN_MAXIMUM
+Maksimum
+; Maximum
+;
+MSG_EDITPAGE_ATTRIBUTES
+Attributter
+; Attributes
+;
+MSG_EDITPAGE_DISPLAY
+Skærm
+; Display
+;
+MSG_EDITPAGE_COLORS
+Farver
+; Colors
+;
+MSG_HELP_WHEEL
+Justér farve for\ngruppe af penne.
+; Adjust color for\ngroup of pens.
+;
+MSG_HELP_INFO
+Oplysninger om\ntilstand og størrelse.
+; Information about\nmode & size.
+;
+MSG_HELP_NAME
+Navn på offentlig skærm.\nJokertegn er tilladt for\nfremmede skærme.
+; Name of Public Screen.\nWildcards allowed for\nforeign screens.
+;
+MSG_HELP_TITLE
+Tekst, der vises i\nskærmens titellinje.
+; Text that appears in\nthe screen's title bar.
+;
+MSG_HELP_FONT
+Standardskrifttype\nfor skærmen.
+; Default font\nfor the screen.
+;
+MSG_HELP_BACKGROUND
+Datatype-billede brugt\nsom baggrundsmønster.
+; Datatype picture used\nas background pattern.
+;
+MSG_HELP_AUTOSCROLL
+Skærmen ruller, når\nmusen rammer dens kanter.
+; The screen scrolls when\nthe mouse hits its borders.
+;
+MSG_HELP_NODRAG
+Skærmen\nkan ikke trækkes.
+; The screen\nis undraggable.
+;
+MSG_HELP_EXCLUSIVE
+Skærmen kan ikke dele\nsin visning med andre.
+; The screen cannot share\nits display with others.
+;
+MSG_HELP_INTERLEAVED
+Skærmens bitmap allokeres\ni interleaved tilstand.
+; The screen's bitmap is allocated\nin interleaved mode.
+;
+MSG_HELP_BEHIND
+Skærmen åbnes bag\nalle andre skærme.
+; The screen opens behind\nall other screens.
+;
+MSG_HELP_SYSTEMDEFAULT
+Skærmen bliver\nsystemets standardskærm.
+; The screen becomes the\nsystem's default screen.
+;
+MSG_HELP_AUTOCLOSE
+Skærmen lukkes, når\ndet sidste vindue lukkes.
+; The screen closes when\nthe last window is closed.
+;
+MSG_HELP_CLOSEGADGET
+Skærmen får\nen lukkeknap.
+; The screen gets\na close gadget.
+;
+MSG_HELP_MODELIST
+Liste over tilgængelige\nskærmtilstande.
+; List of available\ndisplay modes.
+;
+MSG_HELP_MODEINFO
+Oplysninger om den\naktuelle skærmtilstand.
+; Information about the\ncurrent display mode.
+;
+MSG_HELP_OVERSCAN
+Justering af overscan-størrelse.
+; Overscan size adjustment.
+;
+MSG_HELP_WIDTH
+Skærmens bredde,\nmålt i pixel.
+; Width of screen,\nmeasured in pixels.
+;
+MSG_HELP_HEIGHT
+Skærmens højde,\nmålt i pixel.
+; Height of screen,\nmeasured in pixels.
+;
+MSG_HELP_DEPTH
+Skærmens dybde,\nmålt i planer.
+; Depth of screen,\nmeasured in planes.
+;
+MSG_HELP_PENLIST
+Systempenne, kan trækkes\ntil en anden farvepotte.
+; System pens, draggable\nto different color pot.
+;
+MSG_HELP_COLORFIELD
+Aktuel farve, klik\npå feltet for at ændre den.
+; Current color, click\non field to change it.
+;
+MSG_HELP_KILLCOLOR
+Fjern denne farve\nfra gruppen.
+; Remove this color\nfrom the group.
+;
+MSG_HELP_NEWCOLOR
+Tilføj en ny farve\ntil gruppen.
+; Add a new color\nto the group.
+;
+MSG_HELP_EDITOK
+Afslut og husk\nændringer for denne skærm.
+; Exit and remember\nchanges for this screen.
+;
+MSG_HELP_EDITCANCEL
+Afslut og \33bkassér\33n\nændringer for denne skærm.
+; Exit and \33bdiscard\33n\nchanges for this screen.
+;
+MSG_HELP_SCREENLIST
+Liste over definerede\noffentlige skærme.
+; List of defined\npublic screens.
+;
+MSG_HELP_NEWSCREEN
+Opret en ny\noffentlig skærm.
+; Create a new\npublic screen.
+;
+MSG_HELP_COPYSCREEN
+Opret en kopi\naf den aktuelle skærm.
+; Create a copy\nof current screen.
+;
+MSG_HELP_DELETESCREEN
+Slet den aktuelle\noffentlige skærm.
+; Delete current\npublic screen.
+;
+MSG_HELP_EDITSCREEN
+Redigér den aktuelle\noffentlige skærm.
+; Edit current\npublic screen.
+;
+MSG_HELP_OPENSCREEN
+Åbn den aktuelle\noffentlige skærm.
+; Open current\npublic screen.
+;
+MSG_HELP_CLOSESCREEN
+Luk den aktuelle\noffentlige skærm.
+; Close current\npublic screen.
+;
+MSG_HELP_JUMPSCREEN
+Hop til den aktuelle\noffentlige skærm.
+; Jump to current\npublic screen.
+;
+MSG_HELP_SAVE
+Afslut og gem\nændringer på disk.
+; Exit and save\nchanges to disk.
+;
+MSG_HELP_USE
+Afslut og gem ændringer\nfor den aktuelle session.
+; Exit and save changes\nfor current session.
+;
+MSG_HELP_CANCEL
+Afslut og\n\33bkassér\33n ændringer.
+; Exit and\n\33bdiscard\33n changes.
+;

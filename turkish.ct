@@ -1,0 +1,580 @@
+## version $VER: PSI.catalog 19.0 (06.08.2026)
+## language türkçe
+## codeset 12
+;
+MSG_MENU_PROJECT
+Proje
+; Project
+;
+MSG_MENU_PROJECT_OPEN
+Aç...
+; Open...
+;
+MSG_MENU_PROJECT_APPEND
+Ekle...
+; Append...
+;
+MSG_MENU_PROJECT_SAVEAS
+Farklý Kaydet...
+; Save As...
+;
+MSG_MENU_PROJECT_ABOUT
+Hakkýnda...
+; About...
+;
+MSG_MENU_PROJECT_QUIT
+Çýkýþ
+; Quit
+;
+MSG_MENU_EDIT
+Düzen
+; Edit
+;
+MSG_MENU_EDIT_LASTSAVED
+Son Kaydedilen
+; Last Saved
+;
+MSG_MENU_EDIT_RESTORE
+Geri Yükle
+; Restore
+;
+MSG_MENU_SETTINGS
+Ayarlar
+; Settings
+;
+MSG_MENU_SETTINGS_MUI
+MUI...
+; MUI...
+;
+MSG_MENU_COLORS
+Renkler
+; Colors
+;
+MSG_MENU_COLORS_PRESETS
+Hazýr Ayarlar
+; Presets
+;
+MSG_MENU_COLORS_PRESETS_2COL
+Tek Renk Ayarlarý
+; Monochrome Settings
+;
+MSG_MENU_COLORS_PRESETS_4COL
+4-Renk Ayarlarý
+; 4-Color Settings
+;
+MSG_MENU_COLORS_PRESETS_8COL
+MagicWB Ayarlarý
+; MagicWB Settings
+;
+MSG_BUTTON_OK
+_Tamam
+; _OK
+;
+MSG_BUTTON_CANCEL
+Vazgeç
+; Cancel
+;
+MSG_BUTTON_SAVE
+Kaydet
+; Save
+;
+MSG_BUTTON_USE
+Kullan
+; Use
+;
+MSG_BUTTON_NEW
+_Yeni
+; _New
+;
+MSG_BUTTON_COPY
+_Kopyala
+; _Copy
+;
+MSG_BUTTON_DELETE
+_Sil
+; _Delete
+;
+MSG_BUTTON_EDIT
+_Düzenle...
+; _Edit...
+;
+MSG_BUTTON_OPEN
+_Aç
+; _Open
+;
+MSG_BUTTON_CLOSE
+_Vazgeç
+; _Close
+;
+MSG_BUTTON_JUMP
+_Atla
+; _Jump
+;
+MSG_BUTTON_KILL
+Kaldýr
+; Kill
+;
+MSG_TITLE_PUBSCREENWINDOW
+Ekraný Düzenle:
+; Edit Screen:
+;
+MSG_TITLE_SAVE
+PublicScreen Dosyasýný Kaydet
+; Save PublicScreen File
+;
+MSG_TITLE_OPEN
+PublicScreen Dosyasý Yükle
+; Load PublicScreen File
+;
+MSG_TITLE_APPEND
+PublicScreen Dosyasý Ekle
+; Append PublicScreen File
+;
+MSG_LIST_SCREENNAME
+Adý
+; Name
+;
+MSG_LIST_SCREENMODE
+Görüntü Modu
+; Display Mode
+;
+MSG_LIST_UNKNOWNMODE
+(bilinmiyor)
+; (unknown)
+;
+MSG_LIST_FOREIGNSCREEN
+(yabancý)
+; (foreign)
+;
+MSG_LABEL_PUBLICNAME
+Genel _Ad:
+; Public _Name:
+;
+MSG_LABEL_SCREENTITLE
+Ekran _Baþlýðý:
+; Screen _Title:
+;
+MSG_LABEL_DISPLAYMODE
+_Görüntü Modu:
+; _Display Mode:
+;
+MSG_LABEL_DEFAULTFONT
+Varsayýlan _Yazý Tipi:
+; Default _Font:
+;
+MSG_LABEL_BACKGROUND
+_Arkaplan:
+; _Background:
+;
+MSG_LABEL_PUBLICFLAGS
+Bayraklar:
+; Flags:
+;
+MSG_LABEL_AUTOSCROLL
+_Otomatik kaydýrma
+; _Autoscroll
+;
+MSG_LABEL_NODRAG
+Sü_rüklenemez
+; No D_rag
+;
+MSG_LABEL_EXCLUSIVE
+_Özel
+; _Exclusive
+;
+MSG_LABEL_INTERLEAVED
+_Geçmeli
+; _Interleaved
+;
+MSG_LABEL_OPENBEHIND
+Ar_kada Aç
+; Open Be_hind
+;
+MSG_LABEL_SYSTEMDEFAULT
+Sistem Varsa_yýlaný
+; S_ystem Default
+;
+MSG_LABEL_AUTOCLOSE
+Otomatik Kapat
+; Auto Close
+;
+MSG_LABEL_CLOSEGADGET
+Kapatma Düðmesi
+; Close Gadget
+;
+MSG_LABEL_OVERSCAN
+O_verscan:
+; O_verscan:
+;
+MSG_LABEL_SIZE
+_Boyut:
+; _Size:
+;
+MSG_LABEL_CROSS
+_x
+; _x
+;
+MSG_LABEL_DEPTH
+_Derinlik:
+; _Depth:
+;
+MSG_LABEL_VISIBLE
+Görünür:
+; Visible:
+;
+MSG_LABEL_MINIMUM
+Minimum:
+; Minimum:
+;
+MSG_LABEL_MAXIMUM
+Maksimum:
+; Maximum:
+;
+MSG_LABEL_BITSPERGUN
+Bit/Renk:
+; Bits/Gun:
+;
+MSG_LABEL_SCANRATE
+Tarama hýzý:
+; Scanrate:
+;
+MSG_LABEL_SCANLINE
+Tarama satýrý:
+; Scanline:
+;
+MSG_CLI_SCREENOPENED
+Ekran açýldý (0).\n
+; Screen opened (0).\n
+;
+MSG_CLI_SCREENOPENFAILED
+Ekran açýlamadý (5).\n
+; Failed to open screen (5).\n
+;
+MSG_CLI_SCREENCLOSED
+Ekran kapatýldý (0).\n
+; Screen closed (0).\n
+;
+MSG_CLI_SCREENCLOSEFAILED
+Ekran kapatýlamadý (5).\n
+; Failed to close screen (5).\n
+;
+MSG_CLI_SYNTAXERROR
+Komut satýrýnda Sözdizimi Hatasý (10).\n
+; Syntax Error in command line (10).\n
+;
+MSG_CLI_SCREENNOTFOUND
+Ekran bulunamadý (5).\n
+; Screen not found (5).\n
+;
+MSG_CLI_OUTOFMEMORY
+Yetersiz bellek (20).\n
+; Out of memory (20).\n
+;
+MSG_CLI_NOAPPLICATION
+Uygulama oluþturulamadý (20).\n
+; Failed to create application (20).\n
+;
+MSG_CLI_NOMUIMASTER
+muimaster.library V11 açýlamadý (20).\n
+; Failed to open muimaster.library V11 (20).\n
+;
+MSG_ABOUT_NUMBEROFSCREENS
+Ekran sayýsý:
+; Number of screens:
+;
+MSG_TEXT_UNKNOWNMODE
+Bilinmeyen Görüntü Modu
+; Unknown Display Mode
+;
+MSG_TEXT_FOREIGNSCREEN
+Yabancý genel ekran
+; Foreign public screen
+;
+MSG_PALETTE_TITLE
+Palet
+; Palette
+;
+MSG_PALETTE_FIRST
+Ýlk 4 renk
+; First 4 colors
+;
+MSG_PALETTE_LAST
+Son 4 renk
+; Last 4 colors
+;
+MSG_SYSPENS_TITLE
+Sistem Kalemleri
+; System Pens
+;
+MSG_SYSPEN_DETAIL
+Detail
+; Detail
+;
+MSG_SYSPEN_BLOCK
+Engelle
+; Block
+;
+MSG_SYSPEN_TEXT
+Metin
+; Text
+;
+MSG_SYSPEN_SHINE
+Parlak
+; Shine
+;
+MSG_SYSPEN_SHADOW
+Gölge
+; Shadow
+;
+MSG_SYSPEN_FILL
+Dolgu
+; Fill
+;
+MSG_SYSPEN_FILLTEXT
+Filltext
+; Filltext
+;
+MSG_SYSPEN_BACKGROUND
+Arkaplan
+; Background
+;
+MSG_SYSPEN_HIGHLIGHT
+Highlight
+; Highlight
+;
+MSG_SYSPEN_BARDETAIL
+Bardetail
+; Bardetail
+;
+MSG_SYSPEN_BARBLOCK
+Barblock
+; Barblock
+;
+MSG_SYSPEN_BARTRIM
+Bartrim
+; Bartrim
+;
+MSG_PALPRES_TITLE
+Renk Hazýr Ayarlarý
+; Color Presets
+;
+MSG_PALPRES_STANDARD
+0\0Standart
+; 0\0Standard
+;
+MSG_PALPRES_TINT
+1\0Renk Tonu
+; 1\0Tint
+;
+MSG_PALPRES_PHARAO
+2\0Firavun
+; 2\0Pharao
+;
+MSG_PALPRES_SUNSET
+3\0Günbatýmý
+; 3\0Sunset
+;
+MSG_PALPRES_OCEAN
+4\0Okyanus
+; 4\0Ocean
+;
+MSG_PALPRES_STEEL
+5\0Çelik
+; 5\0Steel
+;
+MSG_PALPRES_CHOCOLATE
+6\0Çikolata
+; 6\0Chocolate
+;
+MSG_PALPRES_PEWTER
+7\0Kalay
+; 7\0Pewter
+;
+MSG_PALPRES_WINE
+8\0Þarap
+; 8\0Wine
+;
+MSG_PALPRES_MAGICWB
+9\0MagicWB
+; 9\0MagicWB
+;
+MSG_PALPRES_CLONEWB
+WB'yi Klonla
+; Clone WB
+;
+MSG_OVERSCAN_TEXT
+Metin
+; Text
+;
+MSG_OVERSCAN_GRAPHICS
+Grafik
+; Graphics
+;
+MSG_OVERSCAN_EXTREME
+Aþýrý
+; Extreme
+;
+MSG_OVERSCAN_MAXIMUM
+Maksimum
+; Maximum
+;
+MSG_EDITPAGE_ATTRIBUTES
+Öznitellikler
+; Attributes
+;
+MSG_EDITPAGE_DISPLAY
+Görüntü
+; Display
+;
+MSG_EDITPAGE_COLORS
+Renkler
+; Colors
+;
+MSG_HELP_WHEEL
+Kalem grubu için\nrengi ayarla.
+; Adjust color for\ngroup of pens.
+;
+MSG_HELP_INFO
+Mod ve boyut\nhakkýnda bilgi.
+; Information about\nmode & size.
+;
+MSG_HELP_NAME
+Genel Ekranýn adý.\nYabancý ekranlar için\njoker karakterlere izin verilir.
+; Name of Public Screen.\nWildcards allowed for\nforeign screens.
+;
+MSG_HELP_TITLE
+Ekranýn baþlýk çubuðunda\ngörünen metin.
+; Text that appears in\nthe screen's title bar.
+;
+MSG_HELP_FONT
+Ekran için\nvarsayýlan yazý tipi.
+; Default font\nfor the screen.
+;
+MSG_HELP_BACKGROUND
+Arkaplan deseni olarak\nkullanýlan datatype resmi.
+; Datatype picture used\nas background pattern.
+;
+MSG_HELP_AUTOSCROLL
+Fare kenarlara deðdiðinde\nekran kayar.
+; The screen scrolls when\nthe mouse hits its borders.
+;
+MSG_HELP_NODRAG
+Ekran\nsürüklenemez.
+; The screen\nis undraggable.
+;
+MSG_HELP_EXCLUSIVE
+Ekran görüntüsünü\nbaþkalarýyla paylaþamaz.
+; The screen cannot share\nits display with others.
+;
+MSG_HELP_INTERLEAVED
+Ekranýn bit eþlemi geçmeli\nmodda ayrýlýr.
+; The screen's bitmap is allocated\nin interleaved mode.
+;
+MSG_HELP_BEHIND
+Ekran diðer tüm ekranlarýn\narkasýnda açýlýr.
+; The screen opens behind\nall other screens.
+;
+MSG_HELP_SYSTEMDEFAULT
+Ekran sistemin varsayýlan\nekraný olur.
+; The screen becomes the\nsystem's default screen.
+;
+MSG_HELP_AUTOCLOSE
+Son pencere kapatýldýðýnda\nekran kapanýr.
+; The screen closes when\nthe last window is closed.
+;
+MSG_HELP_CLOSEGADGET
+Ekran bir kapatma\ndüðmesi alýr.
+; The screen gets\na close gadget.
+;
+MSG_HELP_MODELIST
+Kullanýlabilir görüntü\nmodlarýnýn listesi.
+; List of available\ndisplay modes.
+;
+MSG_HELP_MODEINFO
+Geçerli görüntü modu\nhakkýnda bilgi.
+; Information about the\ncurrent display mode.
+;
+MSG_HELP_OVERSCAN
+Overscan boyut ayarý.
+; Overscan size adjustment.
+;
+MSG_HELP_WIDTH
+Ekranýn geniþliði,\npiksel cinsinden.
+; Width of screen,\nmeasured in pixels.
+;
+MSG_HELP_HEIGHT
+Ekranýn yüksekliði,\npiksel cinsinden.
+; Height of screen,\nmeasured in pixels.
+;
+MSG_HELP_DEPTH
+Ekranýn derinliði,\ndüzlem cinsinden.
+; Depth of screen,\nmeasured in planes.
+;
+MSG_HELP_PENLIST
+Sistem kalemleri, farklý renk\nkabýna sürüklenebilir.
+; System pens, draggable\nto different color pot.
+;
+MSG_HELP_COLORFIELD
+Geçerli renk, deðiþtirmek\niçin alana týklayýn.
+; Current color, click\non field to change it.
+;
+MSG_HELP_KILLCOLOR
+Bu rengi gruptan\nkaldýr.
+; Remove this color\nfrom the group.
+;
+MSG_HELP_NEWCOLOR
+Gruba yeni bir\nrenk ekle.
+; Add a new color\nto the group.
+;
+MSG_HELP_EDITOK
+Çýk ve bu ekran için\ndeðiþiklikleri hatýrla.
+; Exit and remember\nchanges for this screen.
+;
+MSG_HELP_EDITCANCEL
+Çýk ve bu ekran için\ndeðiþiklikleri \33byoksay\33n.
+; Exit and \33bdiscard\33n\nchanges for this screen.
+;
+MSG_HELP_SCREENLIST
+Tanýmlý genel\nekranlarýn listesi.
+; List of defined\npublic screens.
+;
+MSG_HELP_NEWSCREEN
+Yeni bir genel\nekran oluþtur.
+; Create a new\npublic screen.
+;
+MSG_HELP_COPYSCREEN
+Geçerli ekranýn bir\nkopyasýný oluþtur.
+; Create a copy\nof current screen.
+;
+MSG_HELP_DELETESCREEN
+Geçerli genel\nekraný sil.
+; Delete current\npublic screen.
+;
+MSG_HELP_EDITSCREEN
+Geçerli genel\nekraný düzenle.
+; Edit current\npublic screen.
+;
+MSG_HELP_OPENSCREEN
+Geçerli genel\nekraný aç.
+; Open current\npublic screen.
+;
+MSG_HELP_CLOSESCREEN
+Geçerli genel\nekraný kapat.
+; Close current\npublic screen.
+;
+MSG_HELP_JUMPSCREEN
+Geçerli genel\nekrana atla.
+; Jump to current\npublic screen.
+;
+MSG_HELP_SAVE
+Çýk ve deðiþiklikleri\ndiske kaydet.
+; Exit and save\nchanges to disk.
+;
+MSG_HELP_USE
+Çýk ve deðiþiklikleri\ngeçerli oturum için kaydet.
+; Exit and save changes\nfor current session.
+;
+MSG_HELP_CANCEL
+Çýk ve deðiþiklikleri\n\33byoksay\33n.
+; Exit and\n\33bdiscard\33n changes.
+;

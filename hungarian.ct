@@ -1,0 +1,580 @@
+## version $VER: PSI.catalog 19.0 (06.08.2026)
+## language magyar
+## codeset 5
+;
+MSG_MENU_PROJECT
+Projekt
+; Project
+;
+MSG_MENU_PROJECT_OPEN
+Megnyitás...
+; Open...
+;
+MSG_MENU_PROJECT_APPEND
+Hozzáfûzés...
+; Append...
+;
+MSG_MENU_PROJECT_SAVEAS
+Mentés mint...
+; Save As...
+;
+MSG_MENU_PROJECT_ABOUT
+Névjegy...
+; About...
+;
+MSG_MENU_PROJECT_QUIT
+Kilépés
+; Quit
+;
+MSG_MENU_EDIT
+Szerkesztés
+; Edit
+;
+MSG_MENU_EDIT_LASTSAVED
+Utoljára mentett
+; Last Saved
+;
+MSG_MENU_EDIT_RESTORE
+Visszaállítás
+; Restore
+;
+MSG_MENU_SETTINGS
+Beállítások
+; Settings
+;
+MSG_MENU_SETTINGS_MUI
+MUI...
+; MUI...
+;
+MSG_MENU_COLORS
+Színek
+; Colors
+;
+MSG_MENU_COLORS_PRESETS
+Elõbeállítások
+; Presets
+;
+MSG_MENU_COLORS_PRESETS_2COL
+Monokróm beállítások
+; Monochrome Settings
+;
+MSG_MENU_COLORS_PRESETS_4COL
+4 színû beállítások
+; 4-Color Settings
+;
+MSG_MENU_COLORS_PRESETS_8COL
+MagicWB beállítások
+; MagicWB Settings
+;
+MSG_BUTTON_OK
+_OK
+; _OK
+;
+MSG_BUTTON_CANCEL
+Mégsem
+; Cancel
+;
+MSG_BUTTON_SAVE
+Ment
+; Save
+;
+MSG_BUTTON_USE
+Használ
+; Use
+;
+MSG_BUTTON_NEW
+Ú_j
+; _New
+;
+MSG_BUTTON_COPY
+_Másolás
+; _Copy
+;
+MSG_BUTTON_DELETE
+_Törlés
+; _Delete
+;
+MSG_BUTTON_EDIT
+Sz_erkesztés...
+; _Edit...
+;
+MSG_BUTTON_OPEN
+Meg_nyitás
+; _Open
+;
+MSG_BUTTON_CLOSE
+_Bezár
+; _Close
+;
+MSG_BUTTON_JUMP
+_Ugrás
+; _Jump
+;
+MSG_BUTTON_KILL
+Eltávolít
+; Kill
+;
+MSG_TITLE_PUBSCREENWINDOW
+Képernyõ szerkesztése:
+; Edit Screen:
+;
+MSG_TITLE_SAVE
+PublicScreen fájl mentése
+; Save PublicScreen File
+;
+MSG_TITLE_OPEN
+PublicScreen fájl betöltése
+; Load PublicScreen File
+;
+MSG_TITLE_APPEND
+PublicScreen fájl hozzáfûzése
+; Append PublicScreen File
+;
+MSG_LIST_SCREENNAME
+Név
+; Name
+;
+MSG_LIST_SCREENMODE
+Megjelenítési mód
+; Display Mode
+;
+MSG_LIST_UNKNOWNMODE
+(ismeretlen)
+; (unknown)
+;
+MSG_LIST_FOREIGNSCREEN
+(idegen)
+; (foreign)
+;
+MSG_LABEL_PUBLICNAME
+Nyilvános _név:
+; Public _Name:
+;
+MSG_LABEL_SCREENTITLE
+Képernyõ _címe:
+; Screen _Title:
+;
+MSG_LABEL_DISPLAYMODE
+_Megjelenítési mód:
+; _Display Mode:
+;
+MSG_LABEL_DEFAULTFONT
+Alapértelmezett _betûtípus:
+; Default _Font:
+;
+MSG_LABEL_BACKGROUND
+_Háttér:
+; _Background:
+;
+MSG_LABEL_PUBLICFLAGS
+Jelzõk:
+; Flags:
+;
+MSG_LABEL_AUTOSCROLL
+_Görgetés
+; _Autoscroll
+;
+MSG_LABEL_NODRAG
+Nem _húzható
+; No D_rag
+;
+MSG_LABEL_EXCLUSIVE
+_Kizárólagos
+; _Exclusive
+;
+MSG_LABEL_INTERLEAVED
+Á_tlapolt
+; _Interleaved
+;
+MSG_LABEL_OPENBEHIND
+Meg_nyitás hátul
+; Open Be_hind
+;
+MSG_LABEL_SYSTEMDEFAULT
+Rendszer _alapértelmezés
+; S_ystem Default
+;
+MSG_LABEL_AUTOCLOSE
+Automatikus bezárás
+; Auto Close
+;
+MSG_LABEL_CLOSEGADGET
+Bezáró gomb
+; Close Gadget
+;
+MSG_LABEL_OVERSCAN
+_Képmezõ:
+; O_verscan:
+;
+MSG_LABEL_SIZE
+_Méret:
+; _Size:
+;
+MSG_LABEL_CROSS
+_x
+; _x
+;
+MSG_LABEL_DEPTH
+_Mélység:
+; _Depth:
+;
+MSG_LABEL_VISIBLE
+Látható:
+; Visible:
+;
+MSG_LABEL_MINIMUM
+Legalább:
+; Minimum:
+;
+MSG_LABEL_MAXIMUM
+Legfeljebb:
+; Maximum:
+;
+MSG_LABEL_BITSPERGUN
+Bit/szín:
+; Bits/Gun:
+;
+MSG_LABEL_SCANRATE
+Képfrissítés:
+; Scanrate:
+;
+MSG_LABEL_SCANLINE
+Sorfrekvencia:
+; Scanline:
+;
+MSG_CLI_SCREENOPENED
+Képernyõ megnyitva (0).\n
+; Screen opened (0).\n
+;
+MSG_CLI_SCREENOPENFAILED
+Nem sikerült megnyitni a képernyõt (5).\n
+; Failed to open screen (5).\n
+;
+MSG_CLI_SCREENCLOSED
+Képernyõ bezárva (0).\n
+; Screen closed (0).\n
+;
+MSG_CLI_SCREENCLOSEFAILED
+Nem sikerült bezárni a képernyõt (5).\n
+; Failed to close screen (5).\n
+;
+MSG_CLI_SYNTAXERROR
+Szintaktikai hiba a parancssorban (10).\n
+; Syntax Error in command line (10).\n
+;
+MSG_CLI_SCREENNOTFOUND
+A képernyõ nem található (5).\n
+; Screen not found (5).\n
+;
+MSG_CLI_OUTOFMEMORY
+Elfogyott a memória (20).\n
+; Out of memory (20).\n
+;
+MSG_CLI_NOAPPLICATION
+Nem sikerült létrehozni az alkalmazást (20).\n
+; Failed to create application (20).\n
+;
+MSG_CLI_NOMUIMASTER
+Nem sikerült megnyitni a muimaster.library V11-et (20).\n
+; Failed to open muimaster.library V11 (20).\n
+;
+MSG_ABOUT_NUMBEROFSCREENS
+Képernyõk száma:
+; Number of screens:
+;
+MSG_TEXT_UNKNOWNMODE
+Ismeretlen megjelenítési mód
+; Unknown Display Mode
+;
+MSG_TEXT_FOREIGNSCREEN
+Idegen nyilvános képernyõ
+; Foreign public screen
+;
+MSG_PALETTE_TITLE
+Paletta
+; Palette
+;
+MSG_PALETTE_FIRST
+Elsõ 4 szín
+; First 4 colors
+;
+MSG_PALETTE_LAST
+Utolsó 4 szín
+; Last 4 colors
+;
+MSG_SYSPENS_TITLE
+Rendszertollak
+; System Pens
+;
+MSG_SYSPEN_DETAIL
+Részlet
+; Detail
+;
+MSG_SYSPEN_BLOCK
+Blokkolás
+; Block
+;
+MSG_SYSPEN_TEXT
+Szöveg
+; Text
+;
+MSG_SYSPEN_SHINE
+Fény
+; Shine
+;
+MSG_SYSPEN_SHADOW
+Árnyék
+; Shadow
+;
+MSG_SYSPEN_FILL
+Kitöltés
+; Fill
+;
+MSG_SYSPEN_FILLTEXT
+Kitöltésszöveg
+; Filltext
+;
+MSG_SYSPEN_BACKGROUND
+Háttér
+; Background
+;
+MSG_SYSPEN_HIGHLIGHT
+Kiemelés
+; Highlight
+;
+MSG_SYSPEN_BARDETAIL
+Sávrészlet
+; Bardetail
+;
+MSG_SYSPEN_BARBLOCK
+Sávblokk
+; Barblock
+;
+MSG_SYSPEN_BARTRIM
+Sávszegély
+; Bartrim
+;
+MSG_PALPRES_TITLE
+Szín-elõbeállítások
+; Color Presets
+;
+MSG_PALPRES_STANDARD
+0\0Szabványos
+; 0\0Standard
+;
+MSG_PALPRES_TINT
+1\0Árnyalat
+; 1\0Tint
+;
+MSG_PALPRES_PHARAO
+2\0Fáraó
+; 2\0Pharao
+;
+MSG_PALPRES_SUNSET
+3\0Naplemente
+; 3\0Sunset
+;
+MSG_PALPRES_OCEAN
+4\0Óceán
+; 4\0Ocean
+;
+MSG_PALPRES_STEEL
+5\0Acél
+; 5\0Steel
+;
+MSG_PALPRES_CHOCOLATE
+6\0Csokoládé
+; 6\0Chocolate
+;
+MSG_PALPRES_PEWTER
+7\0Ón
+; 7\0Pewter
+;
+MSG_PALPRES_WINE
+8\0Bor
+; 8\0Wine
+;
+MSG_PALPRES_MAGICWB
+9\0MagicWB
+; 9\0MagicWB
+;
+MSG_PALPRES_CLONEWB
+WB klónozása
+; Clone WB
+;
+MSG_OVERSCAN_TEXT
+Szöveg
+; Text
+;
+MSG_OVERSCAN_GRAPHICS
+Grafika
+; Graphics
+;
+MSG_OVERSCAN_EXTREME
+Extrém
+; Extreme
+;
+MSG_OVERSCAN_MAXIMUM
+Maximális
+; Maximum
+;
+MSG_EDITPAGE_ATTRIBUTES
+Attribútumok
+; Attributes
+;
+MSG_EDITPAGE_DISPLAY
+Megjelenítés
+; Display
+;
+MSG_EDITPAGE_COLORS
+Színek
+; Colors
+;
+MSG_HELP_WHEEL
+A tollcsoport színének\nbeállítása.
+; Adjust color for\ngroup of pens.
+;
+MSG_HELP_INFO
+Információ a módról\nés a méretrõl.
+; Information about\nmode & size.
+;
+MSG_HELP_NAME
+A nyilvános képernyõ neve.\nIdegen képernyõknél helyettesítõ\nkarakterek is megengedettek.
+; Name of Public Screen.\nWildcards allowed for\nforeign screens.
+;
+MSG_HELP_TITLE
+A képernyõ címsorában\nmegjelenõ szöveg.
+; Text that appears in\nthe screen's title bar.
+;
+MSG_HELP_FONT
+A képernyõ alapértelmezett\nbetûtípusa.
+; Default font\nfor the screen.
+;
+MSG_HELP_BACKGROUND
+Háttérmintaként használt\ndatatype kép.
+; Datatype picture used\nas background pattern.
+;
+MSG_HELP_AUTOSCROLL
+A képernyõ görget, amikor\naz egér eléri a széleit.
+; The screen scrolls when\nthe mouse hits its borders.
+;
+MSG_HELP_NODRAG
+A képernyõ\nnem húzható.
+; The screen\nis undraggable.
+;
+MSG_HELP_EXCLUSIVE
+A képernyõ nem oszthatja meg\na megjelenítést másokkal.
+; The screen cannot share\nits display with others.
+;
+MSG_HELP_INTERLEAVED
+A képernyõ bitképe átlapolt\nmódban van lefoglalva.
+; The screen's bitmap is allocated\nin interleaved mode.
+;
+MSG_HELP_BEHIND
+A képernyõ az összes többi\nképernyõ mögött nyílik meg.
+; The screen opens behind\nall other screens.
+;
+MSG_HELP_SYSTEMDEFAULT
+A képernyõ lesz a rendszer\nalapértelmezett képernyõje.
+; The screen becomes the\nsystem's default screen.
+;
+MSG_HELP_AUTOCLOSE
+A képernyõ bezárul, amikor\naz utolsó ablak bezárul.
+; The screen closes when\nthe last window is closed.
+;
+MSG_HELP_CLOSEGADGET
+A képernyõ kap\negy bezáró gombot.
+; The screen gets\na close gadget.
+;
+MSG_HELP_MODELIST
+Az elérhetõ megjelenítési\nmódok listája.
+; List of available\ndisplay modes.
+;
+MSG_HELP_MODEINFO
+Információ az aktuális\nmegjelenítési módról.
+; Information about the\ncurrent display mode.
+;
+MSG_HELP_OVERSCAN
+A képmezõ méretének beállítása.
+; Overscan size adjustment.
+;
+MSG_HELP_WIDTH
+A képernyõ szélessége,\nképpontokban mérve.
+; Width of screen,\nmeasured in pixels.
+;
+MSG_HELP_HEIGHT
+A képernyõ magassága,\nképpontokban mérve.
+; Height of screen,\nmeasured in pixels.
+;
+MSG_HELP_DEPTH
+A képernyõ mélysége,\nbitsíkokban mérve.
+; Depth of screen,\nmeasured in planes.
+;
+MSG_HELP_PENLIST
+Rendszertollak, más\nszínhez húzhatók.
+; System pens, draggable\nto different color pot.
+;
+MSG_HELP_COLORFIELD
+Aktuális szín, kattints a\nmezõre a megváltoztatásához.
+; Current color, click\non field to change it.
+;
+MSG_HELP_KILLCOLOR
+A szín eltávolítása\na csoportból.
+; Remove this color\nfrom the group.
+;
+MSG_HELP_NEWCOLOR
+Új szín hozzáadása\na csoporthoz.
+; Add a new color\nto the group.
+;
+MSG_HELP_EDITOK
+Kilépés és a képernyõ\nváltozásainak megjegyzése.
+; Exit and remember\nchanges for this screen.
+;
+MSG_HELP_EDITCANCEL
+Kilépés és a képernyõ\nváltozásainak \33beldobása\33n.
+; Exit and \33bdiscard\33n\nchanges for this screen.
+;
+MSG_HELP_SCREENLIST
+A megadott nyilvános\nképernyõk listája.
+; List of defined\npublic screens.
+;
+MSG_HELP_NEWSCREEN
+Új nyilvános képernyõ\nlétrehozása.
+; Create a new\npublic screen.
+;
+MSG_HELP_COPYSCREEN
+Másolat készítése az\naktuális képernyõrõl.
+; Create a copy\nof current screen.
+;
+MSG_HELP_DELETESCREEN
+Az aktuális nyilvános\nképernyõ törlése.
+; Delete current\npublic screen.
+;
+MSG_HELP_EDITSCREEN
+Az aktuális nyilvános\nképernyõ szerkesztése.
+; Edit current\npublic screen.
+;
+MSG_HELP_OPENSCREEN
+Az aktuális nyilvános\nképernyõ megnyitása.
+; Open current\npublic screen.
+;
+MSG_HELP_CLOSESCREEN
+Az aktuális nyilvános\nképernyõ bezárása.
+; Close current\npublic screen.
+;
+MSG_HELP_JUMPSCREEN
+Ugrás az aktuális\nnyilvános képernyõre.
+; Jump to current\npublic screen.
+;
+MSG_HELP_SAVE
+Kilépés és a változások\nmentése lemezre.
+; Exit and save\nchanges to disk.
+;
+MSG_HELP_USE
+Kilépés és a változások mentése\na jelenlegi munkamenetre.
+; Exit and save changes\nfor current session.
+;
+MSG_HELP_CANCEL
+Kilépés és a változások\n\33beldobása\33n.
+; Exit and\n\33bdiscard\33n changes.
+;

@@ -1,0 +1,580 @@
+## version $VER: PSI.catalog 19.0 (06.08.2026)
+## language suomi
+## codeset 0
+;
+MSG_MENU_PROJECT
+Projekti
+; Project
+;
+MSG_MENU_PROJECT_OPEN
+Avaa...
+; Open...
+;
+MSG_MENU_PROJECT_APPEND
+Liitä...
+; Append...
+;
+MSG_MENU_PROJECT_SAVEAS
+Tallenna nimellä...
+; Save As...
+;
+MSG_MENU_PROJECT_ABOUT
+Tietoa...
+; About...
+;
+MSG_MENU_PROJECT_QUIT
+Lopeta
+; Quit
+;
+MSG_MENU_EDIT
+Muokkaus
+; Edit
+;
+MSG_MENU_EDIT_LASTSAVED
+Viimeksi tallennettu
+; Last Saved
+;
+MSG_MENU_EDIT_RESTORE
+Palauta
+; Restore
+;
+MSG_MENU_SETTINGS
+Asetukset
+; Settings
+;
+MSG_MENU_SETTINGS_MUI
+MUI...
+; MUI...
+;
+MSG_MENU_COLORS
+Värit
+; Colors
+;
+MSG_MENU_COLORS_PRESETS
+Esiasetukset
+; Presets
+;
+MSG_MENU_COLORS_PRESETS_2COL
+Yksiväriasetukset
+; Monochrome Settings
+;
+MSG_MENU_COLORS_PRESETS_4COL
+4-väriasetukset
+; 4-Color Settings
+;
+MSG_MENU_COLORS_PRESETS_8COL
+MagicWB-asetukset
+; MagicWB Settings
+;
+MSG_BUTTON_OK
+_OK
+; _OK
+;
+MSG_BUTTON_CANCEL
+Peru
+; Cancel
+;
+MSG_BUTTON_SAVE
+Tallenna
+; Save
+;
+MSG_BUTTON_USE
+Käytä
+; Use
+;
+MSG_BUTTON_NEW
+_Uusi
+; _New
+;
+MSG_BUTTON_COPY
+_Kopioi
+; _Copy
+;
+MSG_BUTTON_DELETE
+_Poista
+; _Delete
+;
+MSG_BUTTON_EDIT
+_Muokkaa...
+; _Edit...
+;
+MSG_BUTTON_OPEN
+_Avaa
+; _Open
+;
+MSG_BUTTON_CLOSE
+_Sulje
+; _Close
+;
+MSG_BUTTON_JUMP
+_Hyppää
+; _Jump
+;
+MSG_BUTTON_KILL
+Tapa
+; Kill
+;
+MSG_TITLE_PUBSCREENWINDOW
+Muokkaa näyttöä:
+; Edit Screen:
+;
+MSG_TITLE_SAVE
+Tallenna PublicScreen-tiedosto
+; Save PublicScreen File
+;
+MSG_TITLE_OPEN
+Lataa PublicScreen-tiedosto
+; Load PublicScreen File
+;
+MSG_TITLE_APPEND
+Liitä PublicScreen-tiedosto
+; Append PublicScreen File
+;
+MSG_LIST_SCREENNAME
+Nimi
+; Name
+;
+MSG_LIST_SCREENMODE
+Näyttötila
+; Display Mode
+;
+MSG_LIST_UNKNOWNMODE
+(tuntematon)
+; (unknown)
+;
+MSG_LIST_FOREIGNSCREEN
+(vieras)
+; (foreign)
+;
+MSG_LABEL_PUBLICNAME
+Julkinen _nimi:
+; Public _Name:
+;
+MSG_LABEL_SCREENTITLE
+Näytön _otsikko:
+; Screen _Title:
+;
+MSG_LABEL_DISPLAYMODE
+_Näyttötila:
+; _Display Mode:
+;
+MSG_LABEL_DEFAULTFONT
+Oletus_kirjasin:
+; Default _Font:
+;
+MSG_LABEL_BACKGROUND
+_Tausta:
+; _Background:
+;
+MSG_LABEL_PUBLICFLAGS
+Liput:
+; Flags:
+;
+MSG_LABEL_AUTOSCROLL
+_Automaattinen vieritys
+; _Autoscroll
+;
+MSG_LABEL_NODRAG
+Ei ve_tämistä
+; No D_rag
+;
+MSG_LABEL_EXCLUSIVE
+_Yksinomainen
+; _Exclusive
+;
+MSG_LABEL_INTERLEAVED
+_Lomitettu
+; _Interleaved
+;
+MSG_LABEL_OPENBEHIND
+Avaa _taakse
+; Open Be_hind
+;
+MSG_LABEL_SYSTEMDEFAULT
+Järjestelmän _oletus
+; S_ystem Default
+;
+MSG_LABEL_AUTOCLOSE
+Automaattinen sulkeminen
+; Auto Close
+;
+MSG_LABEL_CLOSEGADGET
+Sulkemispainike
+; Close Gadget
+;
+MSG_LABEL_OVERSCAN
+_Näytön koko:
+; O_verscan:
+;
+MSG_LABEL_SIZE
+_Koko:
+; _Size:
+;
+MSG_LABEL_CROSS
+_x
+; _x
+;
+MSG_LABEL_DEPTH
+_Syvyys:
+; _Depth:
+;
+MSG_LABEL_VISIBLE
+Näkyvä:
+; Visible:
+;
+MSG_LABEL_MINIMUM
+Minimi:
+; Minimum:
+;
+MSG_LABEL_MAXIMUM
+Maksimi:
+; Maximum:
+;
+MSG_LABEL_BITSPERGUN
+Bittiä/väri:
+; Bits/Gun:
+;
+MSG_LABEL_SCANRATE
+Virkistystaajuus:
+; Scanrate:
+;
+MSG_LABEL_SCANLINE
+Juovataajuus:
+; Scanline:
+;
+MSG_CLI_SCREENOPENED
+Näyttö avattu (0).\n
+; Screen opened (0).\n
+;
+MSG_CLI_SCREENOPENFAILED
+Näytön avaaminen epäonnistui (5).\n
+; Failed to open screen (5).\n
+;
+MSG_CLI_SCREENCLOSED
+Näyttö suljettu (0).\n
+; Screen closed (0).\n
+;
+MSG_CLI_SCREENCLOSEFAILED
+Näytön sulkeminen epäonnistui (5).\n
+; Failed to close screen (5).\n
+;
+MSG_CLI_SYNTAXERROR
+Syntaksivirhe komentorivillä (10).\n
+; Syntax Error in command line (10).\n
+;
+MSG_CLI_SCREENNOTFOUND
+Näyttöä ei löytynyt (5).\n
+; Screen not found (5).\n
+;
+MSG_CLI_OUTOFMEMORY
+Muisti lopussa (20).\n
+; Out of memory (20).\n
+;
+MSG_CLI_NOAPPLICATION
+Sovelluksen luonti epäonnistui (20).\n
+; Failed to create application (20).\n
+;
+MSG_CLI_NOMUIMASTER
+Kirjaston muimaster.library V11 avaus epäonnistui (20).\n
+; Failed to open muimaster.library V11 (20).\n
+;
+MSG_ABOUT_NUMBEROFSCREENS
+Näyttöjen määrä:
+; Number of screens:
+;
+MSG_TEXT_UNKNOWNMODE
+Tuntematon näyttötila
+; Unknown Display Mode
+;
+MSG_TEXT_FOREIGNSCREEN
+Vieras julkinen näyttö
+; Foreign public screen
+;
+MSG_PALETTE_TITLE
+Palet
+; Palette
+;
+MSG_PALETTE_FIRST
+Ensimmäiset 4 väriä
+; First 4 colors
+;
+MSG_PALETTE_LAST
+Viimeiset 4 väriä
+; Last 4 colors
+;
+MSG_SYSPENS_TITLE
+Järjestelmäkynät
+; System Pens
+;
+MSG_SYSPEN_DETAIL
+Detail
+; Detail
+;
+MSG_SYSPEN_BLOCK
+Estä
+; Block
+;
+MSG_SYSPEN_TEXT
+Teksti
+; Text
+;
+MSG_SYSPEN_SHINE
+Kiilto
+; Shine
+;
+MSG_SYSPEN_SHADOW
+Varjo
+; Shadow
+;
+MSG_SYSPEN_FILL
+Täyttö
+; Fill
+;
+MSG_SYSPEN_FILLTEXT
+Täyttöteksti
+; Filltext
+;
+MSG_SYSPEN_BACKGROUND
+Tausta
+; Background
+;
+MSG_SYSPEN_HIGHLIGHT
+Korostus
+; Highlight
+;
+MSG_SYSPEN_BARDETAIL
+Bardetail
+; Bardetail
+;
+MSG_SYSPEN_BARBLOCK
+Barblock
+; Barblock
+;
+MSG_SYSPEN_BARTRIM
+Bartrim
+; Bartrim
+;
+MSG_PALPRES_TITLE
+Väriesiasetukset
+; Color Presets
+;
+MSG_PALPRES_STANDARD
+0\0Standard
+; 0\0Standard
+;
+MSG_PALPRES_TINT
+1\0Tint
+; 1\0Tint
+;
+MSG_PALPRES_PHARAO
+2\0Pharao
+; 2\0Pharao
+;
+MSG_PALPRES_SUNSET
+3\0Sunset
+; 3\0Sunset
+;
+MSG_PALPRES_OCEAN
+4\0Ocean
+; 4\0Ocean
+;
+MSG_PALPRES_STEEL
+5\0Steel
+; 5\0Steel
+;
+MSG_PALPRES_CHOCOLATE
+6\0Chocolate
+; 6\0Chocolate
+;
+MSG_PALPRES_PEWTER
+7\0Pewter
+; 7\0Pewter
+;
+MSG_PALPRES_WINE
+8\0Wine
+; 8\0Wine
+;
+MSG_PALPRES_MAGICWB
+9\0MagicWB
+; 9\0MagicWB
+;
+MSG_PALPRES_CLONEWB
+Kloonaa Workbench
+; Clone WB
+;
+MSG_OVERSCAN_TEXT
+Teksti
+; Text
+;
+MSG_OVERSCAN_GRAPHICS
+Grafiikka
+; Graphics
+;
+MSG_OVERSCAN_EXTREME
+Äärimmäinen
+; Extreme
+;
+MSG_OVERSCAN_MAXIMUM
+Maksimi
+; Maximum
+;
+MSG_EDITPAGE_ATTRIBUTES
+Attribuutit
+; Attributes
+;
+MSG_EDITPAGE_DISPLAY
+Näyttö
+; Display
+;
+MSG_EDITPAGE_COLORS
+Värit
+; Colors
+;
+MSG_HELP_WHEEL
+Säädä kynäryhmän\nväriä.
+; Adjust color for\ngroup of pens.
+;
+MSG_HELP_INFO
+Tietoja tilasta\nja koosta.
+; Information about\nmode & size.
+;
+MSG_HELP_NAME
+Julkisen näytön nimi.\nJokerimerkit sallittuja\nvieraille näytöille.
+; Name of Public Screen.\nWildcards allowed for\nforeign screens.
+;
+MSG_HELP_TITLE
+Teksti, joka näkyy\nnäytön otsikkopalkissa.
+; Text that appears in\nthe screen's title bar.
+;
+MSG_HELP_FONT
+Näytön\noletuskirjasin.
+; Default font\nfor the screen.
+;
+MSG_HELP_BACKGROUND
+Datatype-kuva, jota käytetään\ntaustakuviona.
+; Datatype picture used\nas background pattern.
+;
+MSG_HELP_AUTOSCROLL
+Näyttö vierii, kun hiiri\nosuu sen reunoihin.
+; The screen scrolls when\nthe mouse hits its borders.
+;
+MSG_HELP_NODRAG
+Näyttöä ei\nvoi vetää.
+; The screen\nis undraggable.
+;
+MSG_HELP_EXCLUSIVE
+Näyttö ei voi jakaa\nnäyttötilaansa muiden kanssa.
+; The screen cannot share\nits display with others.
+;
+MSG_HELP_INTERLEAVED
+Näytön bittikartta varataan\nlomitetussa tilassa.
+; The screen's bitmap is allocated\nin interleaved mode.
+;
+MSG_HELP_BEHIND
+Näyttö avautuu kaikkien\nmuiden näyttöjen taakse.
+; The screen opens behind\nall other screens.
+;
+MSG_HELP_SYSTEMDEFAULT
+Näytöstä tulee järjestelmän\noletusnäyttö.
+; The screen becomes the\nsystem's default screen.
+;
+MSG_HELP_AUTOCLOSE
+Näyttö sulkeutuu, kun\nviimeinen ikkuna suljetaan.
+; The screen closes when\nthe last window is closed.
+;
+MSG_HELP_CLOSEGADGET
+Näyttö saa\nsulkemispainikkeen.
+; The screen gets\na close gadget.
+;
+MSG_HELP_MODELIST
+Luettelo käytettävissä\nolevista näyttötiloista.
+; List of available\ndisplay modes.
+;
+MSG_HELP_MODEINFO
+Tietoja nykyisestä\nnäyttötilasta.
+; Information about the\ncurrent display mode.
+;
+MSG_HELP_OVERSCAN
+Overscan-koon säätö.
+; Overscan size adjustment.
+;
+MSG_HELP_WIDTH
+Näytön leveys\npikseleinä.
+; Width of screen,\nmeasured in pixels.
+;
+MSG_HELP_HEIGHT
+Näytön korkeus\npikseleinä.
+; Height of screen,\nmeasured in pixels.
+;
+MSG_HELP_DEPTH
+Näytön syvyys\nbittitasoina.
+; Depth of screen,\nmeasured in planes.
+;
+MSG_HELP_PENLIST
+Järjestelmäkynät, jotka voi\nvetää toiseen väriryhmään.
+; System pens, draggable\nto different color pot.
+;
+MSG_HELP_COLORFIELD
+Nykyinen väri, muuta sitä\nnapsauttamalla kenttää.
+; Current color, click\non field to change it.
+;
+MSG_HELP_KILLCOLOR
+Poista tämä väri\nryhmästä.
+; Remove this color\nfrom the group.
+;
+MSG_HELP_NEWCOLOR
+Lisää uusi väri\nryhmään.
+; Add a new color\nto the group.
+;
+MSG_HELP_EDITOK
+Poistu ja muista\ntämän näytön muutokset.
+; Exit and remember\nchanges for this screen.
+;
+MSG_HELP_EDITCANCEL
+Poistu ja \33bhylkää\33n\ntämän näytön muutokset.
+; Exit and \33bdiscard\33n\nchanges for this screen.
+;
+MSG_HELP_SCREENLIST
+Luettelo määritellyistä\njulkisista näytöistä.
+; List of defined\npublic screens.
+;
+MSG_HELP_NEWSCREEN
+Luo uusi\njulkinen näyttö.
+; Create a new\npublic screen.
+;
+MSG_HELP_COPYSCREEN
+Luo kopio\nnykyisestä näytöstä.
+; Create a copy\nof current screen.
+;
+MSG_HELP_DELETESCREEN
+Poista nykyinen\njulkinen näyttö.
+; Delete current\npublic screen.
+;
+MSG_HELP_EDITSCREEN
+Muokkaa nykyistä\njulkista näyttöä.
+; Edit current\npublic screen.
+;
+MSG_HELP_OPENSCREEN
+Avaa nykyinen\njulkinen näyttö.
+; Open current\npublic screen.
+;
+MSG_HELP_CLOSESCREEN
+Sulje nykyinen\njulkinen näyttö.
+; Close current\npublic screen.
+;
+MSG_HELP_JUMPSCREEN
+Hyppää nykyiseen\njulkiseen näyttöön.
+; Jump to current\npublic screen.
+;
+MSG_HELP_SAVE
+Poistu ja tallenna\nmuutokset levylle.
+; Exit and save\nchanges to disk.
+;
+MSG_HELP_USE
+Poistu ja tallenna muutokset\nnykyistä istuntoa varten.
+; Exit and save changes\nfor current session.
+;
+MSG_HELP_CANCEL
+Poistu ja\n\33bhylkää\33n muutokset.
+; Exit and\n\33bdiscard\33n changes.
+;
