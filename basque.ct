@@ -147,7 +147,7 @@ MSG_LIST_FOREIGNSCREEN
 ; (foreign)
 ;
 MSG_LABEL_PUBLICNAME
-_Izen publikoa: 
+_Izen publikoa:
 ; Public _Name:
 ;
 MSG_LABEL_SCREENTITLE
@@ -191,7 +191,7 @@ Ireki _atzean
 ; Open Be_hind
 ;
 MSG_LABEL_SYSTEMDEFAULT
-S_istemaren lehenetsiak 
+S_istemaren lehenetsiak
 ; S_ystem Default
 ;
 MSG_LABEL_AUTOCLOSE
